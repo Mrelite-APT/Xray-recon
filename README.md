@@ -11,6 +11,6 @@ chmod +x Xray-Recon.sh
 
 # you can use this script 
 
-curl -O https://raw.githubusercontent.com/Mrelite-APT/Xray-Recon/main/Xray-recon.sh
+curl -O https://raw.githubusercontent.com/Mrelite-APT/Xray-recon/main/Xray-Recon.sh
 chmod +x Xray-Recon.sh
 ./Xray-Recon.sh
